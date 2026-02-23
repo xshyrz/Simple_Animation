@@ -25,8 +25,8 @@ body {
 .circle {
     width: 75px;
     height: 75px;
-    border: 2px solid #16FF00;
-    box-shadow: 0 0 20px #487444;
+    border: 2px solid #ff0909;
+    box-shadow: 0 0 20px #f22020;
     position: absolute;
     border-radius: 50%;
     animation: animate 2s linear infinite;
@@ -40,8 +40,8 @@ body {
     transform: translateX(-50%);
     width: 18px;
     height: 18px;
-    background: #16FF00;
-    box-shadow: 0 0 20px #6baf65, 0 0 60px #a1df9c;
+    background: #ff0909;
+    box-shadow: 0 0 20px #fc2929, 0 0 60px #d72222;
     border-radius: 50%;
 }
 
